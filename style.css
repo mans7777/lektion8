@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.verse {
+    margin: 20px auto;
+    padding: 10px;
+    width: 60%;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.verse1 {
+    background-color: #ffcccc;
+    color: #b30000;
+}
+
+.verse2 {
+    background-color: #ccffcc;
+    color: #006600;
+}
+
+.verse3 {
+    background-color: #ccccff;
+    color: #000066;
+}
